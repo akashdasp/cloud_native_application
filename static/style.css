@@ -1,0 +1,11 @@
+body{
+    background-color: tomato;
+    margin-left: 600px;
+    align-items: center;
+}
+.red{
+    color: red;
+}
+.green{
+    color: greenyellow;
+}
